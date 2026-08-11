@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-q9uaan.figpii.com/sitemap.xml
